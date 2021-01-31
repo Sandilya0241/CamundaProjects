@@ -9951,3 +9951,5 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-01-31 17:32:48,214 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-01-31 17:32:48,215 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2021-01-31 17:34:21,399 [Worker-7: Launching Executing install in C__Users_saakh_Downloads_camunda-bpm-examples-master_camunda-bpm-examples-master_scripttask_xslt-scripttask] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\saakh\Downloads\camunda-bpm-examples-master\camunda-bpm-examples-master\scripttask\xslt-scripttask
+2021-01-31 17:34:21,400 [Worker-7: Launching Executing install in C__Users_saakh_Downloads_camunda-bpm-examples-master_camunda-bpm-examples-master_scripttask_xslt-scripttask] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-01-31 17:52:16,689 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
