@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="generate-jsf-form">
+        <property name="context-root" value="generic-jsf-form"/>
+        <property name="java-output-path" value="/generate-jsf-form/target/classes"/>
+    </wb-module>
+</project-modules>
